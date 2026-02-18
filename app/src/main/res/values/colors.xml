@@ -4,6 +4,7 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="clear_btn">#FF5722</color>
+    <color name="clear_new_btn">#DB7DEB</color>
 
 
 </resources>

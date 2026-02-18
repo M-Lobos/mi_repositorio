@@ -98,7 +98,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:layout_marginBottom="8dp"
-        android:backgroundTint="@color/clear_btn"
+        android:backgroundTint="@color/clear_new_btn"
         android:text="@string/btn_clear"
         android:textSize="20sp" />
 
