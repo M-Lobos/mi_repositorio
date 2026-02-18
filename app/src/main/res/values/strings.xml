@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora de jueguete</string>
+    <string name="op_result"> 0 </string>
+    <string name="num1">1° Numero</string>
+    <string name="num2">2° Numero</string>
+    <string name="btn_add_op"> Addition </string>
+    <string name="btn_sub_op"> Subtraction </string>
+    <string name="btn_times_op"> Multiplication </string>
+    <string name="btn_div_op"> Division </string>
+    <string name="btn_clear"> Clear </string>
+</resources>
